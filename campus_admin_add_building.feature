@@ -14,7 +14,7 @@ Feature: Campus admin add building
 
     Then User should see a blank form
 
-    When User fills in name, building code, vendor program and loading docks
+    When User fills in information of building
     
     And User clicks Add
 
